@@ -1,6 +1,6 @@
 
 from typing import Union
-from fastapi import FastAPI
+#from fastapi import FastAPI
 from pydantic import BaseModel
 from util.inference_utils import inference, create_model
 from typing import List, Optional
